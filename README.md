@@ -19,6 +19,4 @@
 8. Cuando termines de contestar tu examen tiene que generar el pull request el cual mandara tu examen a la rama master y tienes que solicitar al instructor que valide dicho pull, al generar el pull seleccionaras al instructor como Reviewers y Assignees y en labels colocaras "entrega" seleccionaremos el millestone `Registro de los desafios realizados`.
 
 
-> **🔖 Nota:** Trata de contestar todo con tus propias palabras asi podras identificar en que fallas y podras mejorar, No tienes que mandar tus cambios directamente a la rama master (si lo haces se te cobrara un cafe o un sandwich o ambos jejeje😈).
-
 ⌨️ con ❤️ por [roxsross](https://github.com/roxsross) 😊
